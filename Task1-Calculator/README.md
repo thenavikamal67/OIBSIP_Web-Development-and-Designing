@@ -54,6 +54,9 @@ Supports decimal results instead of displaying an error.
 Screenshot
 <img width="1910" height="1073" alt="Calculator" src="https://github.com/user-attachments/assets/0e178e8a-fc6f-4816-9fcb-e5b8511df92a" />
 
+Video
+https://github.com/user-attachments/assets/883cd8c9-31ed-4f66-8c74-75fb4caf0715
+
 🔮 Future Enhancements
 Scientific calculator functions
 Keyboard input support
