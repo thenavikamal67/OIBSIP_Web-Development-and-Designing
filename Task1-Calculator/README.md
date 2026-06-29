@@ -51,6 +51,9 @@ Displays "Cannot divide by zero" when the denominator is zero.
 Displays "Error" for invalid mathematical expressions.
 Supports decimal results instead of displaying an error.
 
+Screenshot
+<img width="1910" height="1073" alt="Calculator" src="https://github.com/user-attachments/assets/0e178e8a-fc6f-4816-9fcb-e5b8511df92a" />
+
 🔮 Future Enhancements
 Scientific calculator functions
 Keyboard input support
