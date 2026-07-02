@@ -56,6 +56,7 @@ No additional software or dependencies are required.
 <img width="1910" height="1073" alt="screenshot" src="https://github.com/user-attachments/assets/2e2a6052-0b1c-4e3c-a1fe-256081f2a76b" />
 
 **Video**
+https://github.com/user-attachments/assets/8cf10c34-4124-4c0a-92b8-8464fd742532
 
 🎯 **Future Improvements**
 Add a timeline of Dr. Kalam's achievements
