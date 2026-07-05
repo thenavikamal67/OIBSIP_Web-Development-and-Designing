@@ -2,31 +2,31 @@
 
 A simple and responsive Basic Calculator built using HTML, CSS, and JavaScript. It performs basic arithmetic operations such as addition, subtraction, multiplication, division, and modulus. The calculator also handles division by zero gracefully by displaying a custom error message.
 
-📌 **Features**
-➕ Addition
-➖ Subtraction
-✖️ Multiplication
-➗ Division
-📊 Modulus (%)
-🗑️ Delete (DEL) button to remove the last character
-🔄 Clear (C) button to reset the display
-❌ Displays "Cannot divide by zero" when attempting division by zero
-✅ Supports decimal calculations (e.g., 5/2 = 2.5)
-📱 Responsive and clean user interface
+**Features**
+Addition
+Subtraction
+Multiplication
+Division
+Modulus (%)
+Delete (DEL) button to remove the last character
+Clear (C) button to reset the display
+Displays "Cannot divide by zero" when attempting division by zero
+Supports decimal calculations (e.g., 5/2 = 2.5)
+Responsive and clean user interface
 
-🛠️ **Technologies Used**
+**Technologies Used**
 HTML5 – Structure of the calculator
 CSS3 – Styling and responsive layout
 JavaScript (ES6) – Calculator logic and event handling
 
-📂 **Project Structure**
+**Project Structure**
 Basic-Calculator/
 │── index.html      # Structure of the calculator
 │── style.css       # Styling of the calculator
 │── script.js       # Calculator functionality
 └── README.md       # Project documentation
 
-🚀 **How to Run the Project**
+**How to Run the Project**
 Download or clone this repository.
 Open the project folder.
 Make sure the following files are in the same folder:
@@ -36,7 +36,7 @@ script.js
 Open index.html in any modern web browser.
 The calculator is now ready to use.
 
-💻 **Supported Operations**
+**Supported Operations**
 | Operation        | Example | Output |
 | ---------------- | ------- | ------ |
 | Addition         | `10+5`  | `15`   |
@@ -46,7 +46,7 @@ The calculator is now ready to use.
 | Decimal Division | `5/2`   | `2.5`  |
 | Modulus          | `10%3`  | `1`    |
 
-⚠️ **Error Handling**
+**Error Handling**
 Displays "Cannot divide by zero" when the denominator is zero.
 Displays "Error" for invalid mathematical expressions.
 Supports decimal results instead of displaying an error.
@@ -57,15 +57,15 @@ Supports decimal results instead of displaying an error.
 **Video**
 https://github.com/user-attachments/assets/883cd8c9-31ed-4f66-8c74-75fb4caf0715
 
-🔮 **Future Enhancements**
+**Future Enhancements**
 Scientific calculator functions
 Keyboard input support
 Calculation history
 Dark/Light mode toggle
 Memory functions (M+, M-, MR, MC)
 
-👩‍💻 **Author**
+**Author**
 Thenavi K
 
-📄 **License**
+**License**
 This project is created for learning and educational purposes. Feel free to modify and enhance it for personal or academic use.
