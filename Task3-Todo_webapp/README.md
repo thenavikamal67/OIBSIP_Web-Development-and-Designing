@@ -58,10 +58,10 @@ Drag-and-drop task reordering
 Categories or labels for tasks
 
 **Screenshot**
-
+<img width="1910" height="1073" alt="Screenshot" src="https://github.com/user-attachments/assets/217a8065-ce9c-4703-b739-371b7cbee99f" />
 
 **Video**
-
+https://github.com/user-attachments/assets/58fde631-75a9-433e-874e-af1af1254e8e
 
 **Author**
 Thenavi K
