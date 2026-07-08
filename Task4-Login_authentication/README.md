@@ -98,8 +98,10 @@ User profile management
 Remember Me feature
 
 **Screenshot**
+<img width="1910" height="1073" alt="Screenshot" src="https://github.com/user-attachments/assets/1d818ee3-b8a4-4840-9b7a-c7d335043170" />
 
 **Video**
+https://github.com/user-attachments/assets/f46c4dfb-544b-4a7d-b369-4fc35f4bc75b
 
 **Author**
 Thenavi K
